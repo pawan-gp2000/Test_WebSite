@@ -1,1 +1,1 @@
-This is tamplate for design WebSite
+This is tamplate for  WebSite design
