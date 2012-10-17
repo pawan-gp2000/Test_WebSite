@@ -1,7 +1,7 @@
 
-<footer>
-
-	<div>
+ <footer>
+ <div>
+	<div style=" clear:both; float:none; height:180px; width:900px;">
 
 
 		<div id="part1"
@@ -78,11 +78,10 @@
 			<div id="heading"
 				style="background-color: #2A2929; width: 225px; height: 35px">
 
-				<h id="footer_top";>
-				<center>Events
-				
+				<h id="footer_top">
+				<center>Events</center>
 				</h>
-				</center>
+				
 			</div>
 			<div id="text"
 				style="background-color: #E0DFDF; width: 225px; height: 145px">
@@ -91,4 +90,5 @@
 			</div>
 		</div>
 
+</div>
 </footer>
