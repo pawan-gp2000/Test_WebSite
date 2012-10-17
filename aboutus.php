@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>About Us</title>
 <?php
 include_once 'header/header.php';
 ?>

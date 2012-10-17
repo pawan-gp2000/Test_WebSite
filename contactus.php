@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Contact Us</title>
 <?php
 include_once 'header/header.php';
 ?>
@@ -11,7 +16,7 @@ include_once 'header/header.php';
  <span class="PageContentSeperator"></span> <br>
       Please fill out the details below, or e-mail us at <a href="#">sales@daasys.com</a> and leave the rest to us. Fields marked with an Asterisk (*) are mandatory.<br>
       <br>
-      For job inquiries visit our <a href="careers.html">Careers</a> section.<br>
+      For job inquiries visit our <a href="careers.php">Careers</a> section.<br>
       <br>
       <form name="frmcontact"  method="post" id="frmcontact" style="margin:0px;">
         <div class="FormFieldSet">
@@ -22,7 +27,7 @@ include_once 'header/header.php';
                 <input type="text" style="width:200px; height:18px;" name="txtEmail" id="txtEmail">
               </li>
               <li>
-                <label for="txtName">Name&nbsp;&nbsp;&nbsp;  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </label>
+                <label for="txtName">Name&nbsp;&nbsp;&nbsp;  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; </label>
                 <input type="text" style="width:200px; height:18px;" name="txtName" id="txtName">
               </li>
               <li>
@@ -30,18 +35,20 @@ include_once 'header/header.php';
                 <input type="text" style="width:200px; height:18px;" name="txtContact" id="txtContact">
               </li>
               <li>
-                <label for="txtCompanyName">Company Name&nbsp;&nbsp;&nbsp; </label>
+                <label for="txtCompanyName">Company Name&nbsp; &nbsp; </label>
                 <input type="text" style="width:200px; height:18px;" name="txtCompanyName" id="txtCompanyName">
               </li>
               <li>
-                <label for="txtComments">Comments&nbsp;&nbsp; </label></br>
-                <textarea style="width:280px; height:60px;" name="txtComments" id="txtComments"></textarea>
-              </li>
-              <li style="margin-top:12px; ">
-                <label for="Blank">&nbsp;&nbsp;</label>
-                <input type="submit" style="width:80px; height:25px;" class="FormButton" value="Submit" id="btnSubmit" name="btnSubmit">
+                <label for="txtComments">Comments &nbsp;  &nbsp;  </label>
+                
+                   <textarea name="txtComments" cols="" id="txtComments" style="width:280px; height:60px;"></textarea>
+                
               </li>
             </ul>
+                <p>
+              <label for="Blank">&nbsp;&nbsp;</label>
+              <input class="btn btn-primary" type="submit" style="width:80px; height:25px;" class="FormButton" value="Submit" id="btnSubmit" name="btnSubmit">
+            </p>
           </fieldset>
         </div>
       </form>

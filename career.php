@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Career With Us</title>
 <?php
 include_once 'header/header.php';
 ?>
@@ -24,30 +29,28 @@ include_once 'header/header.php';
 					</td>
 				</tr>
 				<tr>
-					<td class="arialmaintext">Daa Systems is a place where we're free
-						to explore and are encouraged to voice new ideas. This is what
-						distinguishes us from the rest and inspires us to Excel, Innovate
-						and Lead. We´re looking for top-flight professionals committed to
-						creating and implementing innovative solutions that help
-						"technology makes human life simple". If you are looking for a
-						career that challenges and inspires you, consider us. We require a
-						share a spirit of teamwork, a commitment to delivering quality
-						results, and the desire to keep growing professionally. At
-						Daa Systems , we are passionately inclined to our belief that
-						happiness, commitment to work, and excellence in performance go
-						hand in hand.</td>
+					<td class="arialmaintext">Working with Daa Systems is not a job. It is a experience that is what distinguishes us
+					 from the rest. You want a challenging and enjoyable work environment. We want to realize your potential.<br> <br> Daa Systems
+					 work with top notch clients in USA This means that our employees are continuously exposed  to latest  technologies  and trends in
+					 the industry. Our working environment initiatives ensure that our employees continuously acquire and improve on desirable skill-sets.
+					 <br>
+					 
+					  </td>
 				</tr>
 				<tr>
 					<td style="height: 5px; line-height: 5px;"></td>
 				</tr>
-				<tr>
-					<td>When we are happy, we perform well. So our clients prosper and
+				<tr><td>This is the place where we are free to explore and are encouraged to voice new ideas.
+				 Daa Systems stand by the team. We challenge and inspire
+					 each other and define our own scope of career and professional growth.
+					</td>
+				<!-- 	<td> When we are happy, we perform well. So our clients prosper and
 						we prosper. Daa Systems support and stand by the team. We
 						challenge and inspire each other and define our own scope of
 						career and professional growth. We are committed to demonstrating
 						an unrelenting focus on quality and to developing deeper and
 						broader skills, always. We believe that "Creativity is about
-						evolving new solutions, new attitudes and new you".</td>
+						evolving new solutions, new attitudes and new you".</td> -->
 				</tr>
  				 
 				<tr>
@@ -58,19 +61,27 @@ include_once 'header/header.php';
 				<tr>
 					<td class="arialmaintext">
 						<ul>
-							<li>Respect For The People, Recognition For Expertise, Reward For
+							<li>Respect For The People, Reward For
 								The Contribution.</li>
 							<li>Continuous Learning &amp; Renewal.</li>
-							<li>Enjoyable Work Environment Open Work Culture.</li>
+							<li>Employees friendly environment  policies, Such as flexi  timing, Leaves.</li>
 							<li>Helping Relationships.</li>
-							<li>Professional Integrity.</li>
 							<li>Empowerment.</li>
 							<li>Challenging Work Assignments.</li>
 							<li>Opportunities for Development &amp; Growth.</li>
-							<li>Sharing Growth &amp; Prosperity.</li>
-						</ul>
+							<li>Employees success is based on their performance.</li>
+					  </ul>
+					  
 					</td>
 				</tr>
+				<tr>
+					<td>
+                        If you posses the will to succeed and want to  be part of rapidly growing company with huge opportunities Email us at 
+                        <a href="mailto:hr@daasys.com"> hr@daasys.com </a> 
+					</td>
+				</tr>
+				
+				
 			</tbody>
 		</table>
 
